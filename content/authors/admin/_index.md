@@ -1,7 +1,7 @@
 ---
 title: Jeroen Van Schependom
 role: Research professor 
-avatar_filename: jvansche_portrait-removebg-preview.png
+avatar_filename: jvansche_portrait-removebg-preview.jpg
 bio: My research interests include cognitive impairment, multiple sclerosis,
   brain dynamics and neuromodulation
 social:
