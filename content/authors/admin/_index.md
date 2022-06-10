@@ -1,6 +1,6 @@
 ---
 title: Jeroen Van Schependom
-role: Research professor @ Vrije Universiteit Brussel
+role: Research professor 
 avatar_filename: jvansche_portrait-removebg-preview.png
 bio: My research interests include cognitive impairment, multiple sclerosis,
   brain dynamics and neuromodulation
