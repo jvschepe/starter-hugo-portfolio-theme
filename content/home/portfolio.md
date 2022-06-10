@@ -29,11 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Multiple Sclerosis
-      tag: MS
+      tag: 'MS'
     - name: Neurophysiology
-      tag: MEG
+      tag: 'MEG'
     - name: Neuromodulation
-      tag: Neuromodulation
+      tag: 'Neuromodulation'
 
 design:
   columns: '1'
