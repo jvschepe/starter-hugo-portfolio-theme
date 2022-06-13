@@ -25,7 +25,7 @@ experience:
   - title: Research professor
     company: Vrije Universiteit Brussel
     company_url: ''
-    company_logo: ''
+    company_logo: 'FWO'
     location: ''
     date_start: '2019-11-01'
     date_end: ''
