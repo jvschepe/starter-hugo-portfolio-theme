@@ -38,8 +38,8 @@ experience:
 
   - title: PhD in Psychological Sciences
     company: UMons
-    company_url: 'UMons'
-    company_logo: org-x
+    company_url: ''
+    company_logo: UMons
     location: Mons
     date_start: '2011-07-01'
     date_end: '2015-05-05'

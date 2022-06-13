@@ -34,7 +34,7 @@ experience:
   - title: FWO Postdoctoral fellow
     company: FWO
     company_url: ''
-    company_logo: ''
+    company_logo: 'FWO'
     location: ''
     date_start: '2016-10-01'
     date_end: '2019-10-01'
@@ -43,7 +43,7 @@ experience:
   - title: FWO Aspirant fellow
     company: FWO
     company_url: ''
-    company_logo: ''
+    company_logo: 'FWO'
     location: ''
     date_start: '2012-10-01'
     date_end: '2016-10-01'
