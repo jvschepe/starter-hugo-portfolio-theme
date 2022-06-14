@@ -47,21 +47,21 @@ experience:
         * Joint PhD with UMons
         * PhD presented at UMons in French
 
-  - title: MEng Physics Engineering
+  - title: MSc Physics Engineering
     company: UGent
     company_url: ''
-    company_logo: org-x
+    company_logo: UGent
     location: Ghent
     date_start: '2009-10-01'
     date_end: '2011-07-01'
     description: |2-
         * Erasmus to Universidad Complutense de Madrid
-        * Master thesis on molecular magnets, see here: LINK
+        * Master thesis on the effect of orbital degeneration and structure on the efficiency of molecular magnets, see [here](https://molmod.ugent.be/sites/default/files/MT_jvanschependom.pdf)
 
-  - title: BEng Physics Engineering
+  - title: BSc Physics Engineering
     company: UGent
     company_url: ''
-    company_logo: org-x
+    company_logo: UGent
     location: Ghent
     date_start: '2006-10-01'
     date_end: '2009-07-01'
