@@ -23,28 +23,34 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - date_end: ''
+    date_start: '2019-10-01'
     description: ''
     organization: Vrije Universiteit Brussel
     organization_url: https://www.vub.be/en/study/biomedical-engineering#programme
     title: Measurements and analysis of biomedical signals 
-    url: ''
+    url: 'https://caliweb.vub.be/?page=course-offer&id=010912&anchor=1&target=pr&year=2223&language=nl&output=html'
   - date_end: ''
     date_start: '2019-10-01'
     description: Modelling of physiological systems (cardiac, brain)
     organization: Vrije Universiteit Brussel
     organization_url: https://www.vub.be/en/study/biomedical-engineering#programme 
     title: Modelling of physiological systems 
+    url: 'https://caliweb.vub.be/?page=course-offer&id=010908&anchor=1&target=pr&year=2223&language=nl&output=html'
   - date_end: ''
     date_start: '2019-10-01'
     description: ''
     organization: Vrije Universiteit Brussel
     organization_url: https://www.vub.be/en/study/biomedical-engineering#programme 
-    title: 'Computational neurophysiology'
+    title: 'Computational neurophysiology - UGent'
+    url: 'https://caliweb.vub.be/?page=course-offer&id=011418&anchor=1&target=pr&year=2223&language=en&output=html'
+  - date_end: ''
+    date_start: '2016-10-01'
+    description: ''
+    organization: Vrije Universiteit Brussel
+    organization_url: https://www.vub.be
+    title: 'Fysiologie van de cel en de organen - Partim neurofysiologie (two guest lectures + practical)'
     url: ''
-
 design:
   columns: '1'
 ---

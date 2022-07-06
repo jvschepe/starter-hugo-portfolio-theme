@@ -3,7 +3,7 @@ title: BRUMEG
 subtitle: "Capturing brain dynamics in people with MS "
 date: 2022-01-01
 summary: >-
-  
+  The BRUMEG study consists of a large multimodal data assessment (MEG, MRI, DWI) to enable the characterisation of the brain's functioning of people with multiple sclerosis. 
 
   [](https://aims.research.vub.be/en/brumeg-study# "Email")[](https://aims.research.vub.be/en/brumeg-study# "Print")[](https://aims.research.vub.be/en/brumeg-study# "Facebook")[](https://aims.research.vub.be/en/brumeg-study# "Twitter")
 
