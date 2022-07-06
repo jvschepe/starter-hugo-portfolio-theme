@@ -7,7 +7,7 @@ bio: My research interests include cognitive impairment, multiple sclerosis,
 social:
   - icon: envelope
     icon_pack: fas
-    mailto: jeroen.van.schependom@vub.be
+    link: about/#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Jeroen_VS
