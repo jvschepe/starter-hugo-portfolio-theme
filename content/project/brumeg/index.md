@@ -11,7 +11,7 @@ summary: >-
   [](<>)
 tags:
   - MEG;MS
-external_link: https://aims.research.vub.be/en/brumeg-study
+external_link: 
 ---
 The BRUMEG study was an effort to investigate the neurophysiological mechanisms of cognitive impairment in MS using Magnetoencephalography (MEG). MEG is a technique which offers higher spatial resolution than electroencephalography (EEG) and higher temporal resolution than functional magnetic resonance imaging (fMRI). The goal of this study was to collect an extensive and high-quality data-set comprising of MEG (task and resting-state) data, MRI (3D-T1, FLAIR, DTI, resting-state fMRI) data and a wide array of neuropsychological measures (i.a. Stroop task, SDMT, BVMT-R and Beck’s Depression Inventory) to 105 persons with MS (PwMS) and 45 healthy controls.
 
