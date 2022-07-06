@@ -18,6 +18,6 @@ superuser: true
 status:
   icon: #☕️
 ---
-Jeroen Van Schependom is associate professor at the department of Electronics and Informatics (ETRO) and the AI supported modelling in clinical sciences ([AIMS](http://aims.research.vub.be/)) at Vrije Universiteit Brussel. He works on the development of novel biomarkers for cognitive impairment, mainly for multiple sclerosis and Alzheimer’s disease, and explores novel treatments.
+I am associate professor at the department of Electronics and Informatics ([ETRO](http://etrovub.be/)) and the AI supported modelling in clinical sciences ([AIMS](http://aims.research.vub.be/)) at Vrije Universiteit Brussel. I work on the development of novel biomarkers for cognitive impairment, mainly for multiple sclerosis and Alzheimer’s disease, and explore novel treatments. You can contact me at jeroen dot van dot schependom at vub.be
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
