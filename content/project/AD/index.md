@@ -2,7 +2,7 @@
 title: Alzheimer's disease
 subtitle: Capturing early stages of dimentia
 date: 2022-01-01
-summary: Early detection of Alzheimer's disease through multimodal patient characterisation  
+summary: Early detection of Alzheimer's disease through multimodal patient characterisation.  
 tags:
   - AD; 
 external_link: 
