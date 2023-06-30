@@ -3,7 +3,7 @@ title: Multiple Sclerosis
 subtitle: "Cognitive impairment in MS "
 date: 2022-01-01
 summary: >-
-  Cognitive impairment is an important and integral part of multiple sclerosis. Throughout the past decade, our group has worked on several aspects of CI leading to several key publications. 
+  Quantifying and characterising cognitive impairment 
   [](<>)
 tags:
   - MEG;MS

@@ -35,10 +35,10 @@ content:
   #  - name: Neuromodulation
   #    tag: 'Neuromodulation'
 
-design:
-  columns: '2'
-  view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  design:
+    columns: '2'
+    view: masonry
+    flip_alt_rows: true
+    background: {}
+    spacing: {padding: [0, 0, 0, 0]}
 ---
