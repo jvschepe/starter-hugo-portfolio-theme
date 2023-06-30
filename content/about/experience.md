@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Elected Member
     company: Jonge Academie
-    company_url: 'www.jongeacademie.be'
+    company_url: 'https://www.jongeacademie.be'
     company_logo: 'JA'
     location: ''
     date_start: '2022-03-01'
@@ -33,7 +33,7 @@ experience:
     
   - title: Research professor
     company: Vrije Universiteit Brussel
-    company_url: ''
+    company_url: 'https://www.vub.be'
     company_logo: 'VUB'
     location: ''
     date_start: '2019-11-01'
@@ -42,7 +42,7 @@ experience:
 
   - title: FWO Postdoctoral fellow
     company: FWO
-    company_url: ''
+    company_url: 'https://www.fwo.be'
     company_logo: 'FWO'
     location: ''
     date_start: '2016-10-01'
@@ -51,7 +51,7 @@ experience:
 
   - title: FWO Aspirant fellow
     company: FWO
-    company_url: ''
+    company_url: 'https://www.fwo.be'
     company_logo: 'FWO'
     location: ''
     date_start: '2012-10-01'
