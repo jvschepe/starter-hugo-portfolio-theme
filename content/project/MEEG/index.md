@@ -1,9 +1,10 @@
 ---
-title: MEEG processing
+title: Neurophysiology
 subtitle: "Understanding the brain's functioning and how it fails "
 date: 2022-01-01
 summary: >-
- By analysing EEG, MEG and fMRI data in people with and without diseases, my aim is to unravel the brain's functioning. Important is that changes in brain functioning as observed patient populations may not always look what they are. 
+  Brain dynamics in neurological diseases
+
   [](<>)
 tags:
   - MEG;MS

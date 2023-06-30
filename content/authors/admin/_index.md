@@ -20,7 +20,7 @@ status:
 ---
 I am an assistant professor at the department of Electronics and Informatics ([ETRO](https://etrovub.be/)) and the AI supported modelling in clinical sciences ([AIMS](https://aims.research.vub.be/)) at Vrije Universiteit Brussel. I work on cognitive impairment in neurological disorders. My main research goal is to develop novel treatments strategies based on an improved understanding of how different neurological disorders affect specific cognitive domains. To this aim, my team uses a variety of neuroimaging techniques (MEG, MRI), tests novel neuromodulation techniques in rodent models of multiple sclerosis and assesses the validity of neurostimulation simulation software in neurological diseases. 
 
-Next to my research, I am currently an elected member of the ([Jonge Academie](https://jongeacademie.be/)) where we work on a variety of topics relevant to academia. 
+Next to my research, I am currently an elected member of the [Jonge Academie](https://jongeacademie.be/) where we work on a variety of topics relevant to academia. 
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
