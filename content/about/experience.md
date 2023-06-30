@@ -22,10 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Elected Member
+    company: Jonge Academie
+    company_url: 'www.jongeacademie.be'
+    company_logo: 'JA'
+    location: ''
+    date_start: '2022-03-01'
+    date_end: ''
+    description: 'The Jonge Academie is a place where young promising researchers meet to discuss and debate burning themes in Academia'
+    
   - title: Research professor
     company: Vrije Universiteit Brussel
     company_url: ''
-    company_logo: 'FWO'
+    company_logo: 'VUB'
     location: ''
     date_start: '2019-11-01'
     date_end: ''
