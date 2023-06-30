@@ -13,11 +13,14 @@ social:
     link: https://twitter.com/Jeroen_VS
 organizations:
   - name: Vrije Universiteit Brussel
-    url: "www.vub.be "
+    url: "https://www.vub.be "
 superuser: true
 status:
   icon: #☕️
 ---
-I am associate professor at the department of Electronics and Informatics ([ETRO](http://etrovub.be/)) and the AI supported modelling in clinical sciences ([AIMS](http://aims.research.vub.be/)) at Vrije Universiteit Brussel. I work on the development of novel biomarkers for cognitive impairment, mainly for multiple sclerosis and Alzheimer’s disease, and explore novel treatments. 
+I am an assistant professor at the department of Electronics and Informatics ([ETRO](https://etrovub.be/)) and the AI supported modelling in clinical sciences ([AIMS](https://aims.research.vub.be/)) at Vrije Universiteit Brussel. I work on cognitive impairment in neurological disorders. My main research goal is to develop novel treatments strategies based on an improved understanding of how different neurological disorders affect specific cognitive domains. To this aim, my team uses a variety of neuroimaging techniques (MEG, MRI), tests novel neuromodulation techniques in rodent models of multiple sclerosis and assesses the validity of neurostimulation simulation software in neurological diseases. 
+
+Next to my research, I am currently an elected member of the ([Jonge Academie](https://jongeacademie.be/)) where we work on a variety of topics relevant to academia. 
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
