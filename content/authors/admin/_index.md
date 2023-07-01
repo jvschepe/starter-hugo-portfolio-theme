@@ -11,9 +11,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Jeroen_VS
-  - icon: google
-    icon_pack: fab
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=dC5CkCEAAAAJ&hl=nl 
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jeroenvanschependom/
 organizations:
   - name: Vrije Universiteit Brussel
     url: "https://www.vub.be "
