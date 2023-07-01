@@ -11,6 +11,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Jeroen_VS
+  - icon: google
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=dC5CkCEAAAAJ&hl=nl 
 organizations:
   - name: Vrije Universiteit Brussel
     url: "https://www.vub.be "
