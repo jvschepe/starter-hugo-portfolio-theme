@@ -11,7 +11,7 @@ authors:
 - G. Nagels
 - D. De Bundel
 - J. Van Schependom
-tags: ['frontpage']
+tags: ["frontpage"]
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-01T19:23:21+02:00
