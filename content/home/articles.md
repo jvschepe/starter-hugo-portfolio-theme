@@ -25,7 +25,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'frontpage'
     category: ''
     publication_type: ''
     author: ''

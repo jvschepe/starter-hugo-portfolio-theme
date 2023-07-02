@@ -14,7 +14,7 @@ authors:
 - M. D'Haeseleer
 - G. Nagels
 - J. Van Schependom
-tags: []
+tags: ['frontpage']
 categories: []
 date: '2023-06-01'
 lastmod: 2023-07-01T19:23:21+02:00
