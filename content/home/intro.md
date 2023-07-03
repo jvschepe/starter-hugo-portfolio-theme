@@ -10,7 +10,7 @@ widget_id: test-reference
 
 My research focusses on cognitive impairment in neurological diseases. 
 
-My team aims to understand how neurodegenerative diseases affect specific cognitive functions and leverage this knowledge into novel treatments to improve cognitive functioning. You can find my main research interests and projects [here](/projects/) 
+My team aims to understand how neurodegenerative diseases affect specific cognitive functions and leverage this knowledge into novel treatments to improve cognitive functioning. You can find my main research interests and projects [here](/project/) 
 
 Check out my [CV](/about/) or in [PDF](/static/uploads/resume.pdf)
 
