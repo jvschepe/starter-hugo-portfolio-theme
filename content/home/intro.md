@@ -12,11 +12,12 @@ My research focusses on cognitive impairment in neurological diseases.
 
 My team aims to understand how neurodegenerative diseases affect specific cognitive functions and leverage this knowledge into novel treatments to improve cognitive functioning.  
 
-Our main areas of expertise are:
-* Dynamic analysis of MEG/EEG/fMRI data of people with MS or AD
-* Improving cognitive assessment in standard care
-* Simulations of current densities induced by tES in people with neurological diseases
-* Understanding the mechanisms underlying tES applications through preclinical models
+Check out my [CV](/about/) 
 
+My main interests focus on: 
 
-Check out my [CV](/about/) and ongoing projects below!
+# Our main areas of expertise are:
+# * Dynamic analysis of MEG/EEG/fMRI data of people with MS or AD
+# * Improving cognitive assessment in standard care
+# * Simulations of current densities induced by tES in people with neurological diseases
+# * Understanding the mechanisms underlying tES applications through preclinical models

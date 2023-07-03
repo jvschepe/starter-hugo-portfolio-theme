@@ -15,7 +15,7 @@ tags: ["frontpage"]
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-01T19:23:21+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

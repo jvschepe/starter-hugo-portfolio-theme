@@ -1,6 +1,6 @@
 ---
-title: Multiple Sclerosis
-subtitle: "Cognitive impairment in MS "
+title: Cognitive impairment
+subtitle: ""
 date: 2022-01-01
 summary: >-
   Quantifying and characterising cognitive impairment 
