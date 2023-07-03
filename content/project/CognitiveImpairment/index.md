@@ -17,8 +17,8 @@ In [Van Schependom et al](../../publication/pmid-24850580/pmid-24850580.pdf), we
 ## Developing multimodal biomarkers for cognitive impairment
 As cognitive impairment is notoriously difficult and costly to assess in MS, we have worked on the development of novel, more objective markers of cognitive impairment by analysing the P300 waveform, shape analysis of the corpus callosum,  fMRI functional connectivity analysis, [MEG dynamic networks](../../publication/pmid-31361073/pmid-31361073.pdf) and serum/CSF biomarkers. 
 
-## Characterizing disease evolution
-As MS is such a complex disease, I strongly believe in the value of multimodal biomarkers to improve follow-up. I have worked on EEG, MEG, MRI segmentation and fMRI and have contributed to to analysis of CSF/serum measurements. For important remarks on fMRI/EEG/MEG, see here. 
+## Capturing cognitive deterioration in the clinic
+We are working on an app-based cognitive test (coming soon) as well as deep learning on structural brain images. Please check [Stijn Denissens](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=H9KHafoAAAAJ&citation_for_view=H9KHafoAAAAJ:Se3iqnhoufwC)'s work [here](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=H9KHafoAAAAJ&citation_for_view=H9KHafoAAAAJ:Se3iqnhoufwC)
 
 ## New treatment designs for CI in MS
 As cognitive impairment is difficult to treat, we are working on novel treatment designs. Delphine Van Laethem is investigating the beneficial effects of combined physical/cognitive training and I am exploring if non-invasive neuromodulation could provide a new way to sustainably enhance cognition in people with MS. 
