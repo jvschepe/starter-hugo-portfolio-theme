@@ -49,7 +49,7 @@ item:
     description: ''
     organization: Vrije Universiteit Brussel
     organization_url: https://www.vub.be
-    title: 'Fysiologie van de cel en de organen - Partim neurofysiologie (two guest lectures + practical)'
+    title: 'Fysiologie van de cel en de organen - Partim neurofysiologie '
     url: ''
 design:
   columns: '1'
