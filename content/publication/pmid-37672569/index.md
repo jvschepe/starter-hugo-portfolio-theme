@@ -19,6 +19,8 @@ date: '2023-12-01'
 lastmod: 2023-11-04T13:51:09+01:00
 featured: false
 draft: false
+tags: ["frontpage"]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
