@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teachings'
+title: 'Teaching'
 subtitle:
 
 # Date format
@@ -42,7 +42,7 @@ item:
     description: ''
     organization: Vrije Universiteit Brussel
     organization_url: https://www.vub.be/en/study/biomedical-engineering#programme 
-    title: 'Computational neurophysiology - UGent'
+    title: 'Computational neurophysiology'
     url: 'https://caliweb.vub.be/?page=course-offer&id=011418&anchor=1&target=pr&year=2223&language=en&output=html'
   - date_end: ''
     date_start: '2016-10-01'
