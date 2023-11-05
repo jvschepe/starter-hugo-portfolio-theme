@@ -32,7 +32,7 @@ item:
     url: 'https://caliweb.vub.be/?page=course-offer&id=010912&anchor=1&target=pr&year=2223&language=nl&output=html'
   - date_end: ''
     date_start: '2019-10-01'
-    description: Modelling of physiological systems (cardiac, brain)
+    description: ''
     organization: Vrije Universiteit Brussel
     organization_url: https://www.vub.be/en/study/biomedical-engineering#programme 
     title: Modelling of physiological systems 
