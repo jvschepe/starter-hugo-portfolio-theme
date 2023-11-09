@@ -12,10 +12,10 @@ external_link:
 ---
 As a group we are looking into ways of how recent advances in artificial intelligence (AI) can be leveraged into clinical healthcare. 
 
-## Yes vs No
+## Will AI change MS care in the next ten years?
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-We have recently contribute to both the [yes](https://journals.sagepub.com/doi/10.1177/13524585221130421) and [NO](https://journals.sagepub.com/doi/10.1177/13524585221125376?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) statement in an MSJ controversy series on whether AI will change MS healthcare within 10 years. 
+We have recently contribute to both the [YES](https://journals.sagepub.com/doi/10.1177/13524585221130421) and [NO](https://journals.sagepub.com/doi/10.1177/13524585221125376?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) statement in an MSJ controversy series on whether AI will change MS healthcare within 10 years. 
 
 ## Federated learning
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
