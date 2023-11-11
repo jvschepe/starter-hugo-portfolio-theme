@@ -12,6 +12,11 @@ external_link:
 ---
 As a group we are looking into ways of how recent advances in artificial intelligence (AI) can be leveraged into clinical healthcare. 
 
+## AI in psychiatry
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+One of my first explorations of the use of AI in clinical care was to assess the usefulness of different machine learners (SVMs) to detect the metabolic syndrome in patients treated with second-generate psychotics. In contrast to the literature by then, I demonstrated that the accuracy of the different machine learning strongly depended on the population at study as a specific subpopulation was easily classified, artificially increasing accuracy. See [my paper](../../publication/pmid-37672560) for more details. 
+
 ## Will AI change MS care in the next ten years?
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
