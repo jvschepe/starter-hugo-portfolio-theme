@@ -13,6 +13,8 @@ Transcranial electrical stimulation (tES) is a promising developing field for th
 
 As it is currently unknown whether repeated stimulation could enhance remyelination and through which processes, we are setting up experiments to test the effect of repeated tACS administration in mice. 
 
+In the meantime, [Thomas Scheinok](https://aims.research.vub.be/en/thomas-scheinok) has published [a comprehensive review](../publication/pmid-37127087/) on the intrinsic connection between brain activity and (re)myelination. 
+
 ## Simulations 
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
