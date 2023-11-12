@@ -15,7 +15,11 @@ As cognitive impairment is difficult to assess objectively, people have been loo
 ## Brain dynamics
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Many techniques have been developed - and are still under development - that enable not only static functional connectivity analyses, but also the analysis of short-lived transient brain states. These brain states can be characterized by a unique spatial, temporal and spectral profile. In contrast to static approaches these short-lived states open a window on the timescales at which cognition unfolds, i.e. in the range of tens of milliseconds. Our results on brain dynamics in MS have been published [here](../../publication/pmid31361073/cite.bib)
+Many techniques have been developed - and are still under development - that enable not only static functional connectivity analyses, but also the analysis of short-lived transient brain states. These brain states can be characterized by a unique spatial, temporal and spectral profile. In contrast to static approaches these short-lived states open a window on the timescales at which cognition unfolds, i.e. in the range of tens of milliseconds. Our results on brain dynamics in MS have been published [here](../../publication/pmid31361073/cite.bib). 
+
+[Chiara Rossi](https://aims.research.vub.be/en/chiara-rossi) has recently moved this forward to task-based MEG data published in [Communications Biology](../../publication/pmid-37872313). 
+
+![](../../publication/pmid-37872313/featured.png)
 
 ## Spectral analyses
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

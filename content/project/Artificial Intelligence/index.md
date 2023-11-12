@@ -1,9 +1,9 @@
 ---
 title: Artificial intelligence
-subtitle: "Leveraging the advances of AI to improve clinical care for people with MS "
+subtitle: "Exploring the potential added benefits artificial intelligence for clinical care "
 date: 2022-01-01
 summary: >-
-  Artificial intelligence
+  Exploring the potential added benefits artificial intelligence for clinical care
 
   [](<>)
 tags:
