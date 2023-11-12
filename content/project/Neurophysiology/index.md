@@ -30,6 +30,10 @@ The alpha band has been frequently linked to cogntive impairment in MS. But how 
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 As sustained oscillations have been hypothesized to underlie brain communuction - and hence - cognitive functioning, the 1/f spectral slope has been suggested as a marker of excitation/inhibition balance. [Fahimeh Akbarian](https://aims.research.vub.be/en/fahimeh-akbarian) has demonstrated that the 1/f slope changes in the expected direction when benzodiazepines - a common symptomatic treatment in MS - are administered. For more details, see her [great work](../../publication/pmid-37672569) published in HBM!
 
+![](../../publication/pmid-37672569/EIbalance.png)
+
+
+
 ## Methodological caveats
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
