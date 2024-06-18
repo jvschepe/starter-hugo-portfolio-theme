@@ -15,7 +15,7 @@ My team aims to understand how neurodegenerative diseases affect specific cognit
 
 You can find my main research interests and projects [here](/project/) 
 
-Check out my CV [here](/about/) or download the PDF [here](../static/uploads/resume.pdf).
+Check out my CV [here](/about/).
 
 
 
