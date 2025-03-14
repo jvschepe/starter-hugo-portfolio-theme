@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: about/#contact
   - icon: bluesky
-    icon_pack: fas
+    icon_pack: fab
     link: https://bsky.app/profile/jeroenvs.bsky.social 
   - icon: graduation-cap
     icon_pack: fas
