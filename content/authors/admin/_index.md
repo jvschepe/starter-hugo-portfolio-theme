@@ -10,7 +10,7 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Jeroen_VS
+    link: https://bsky.app/profile/jeroenvs.bsky.social 
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=dC5CkCEAAAAJ&hl=nl 
@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jeroenvanschependom/
   - icon: bluesky
-    icon_pack: fa-brands
+    icon_pack: fab
     link: https://bsky.app/profile/jeroenvs.bsky.social 
 organizations:
   - name: Vrije Universiteit Brussel
