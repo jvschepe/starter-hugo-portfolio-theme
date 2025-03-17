@@ -8,7 +8,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
+  - icon: <i class="fa-brands fa-bluesky"></i>
     icon_pack: fab
     link: https://bsky.app/profile/jeroenvs.bsky.social 
   - icon: graduation-cap
