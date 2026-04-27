@@ -1,38 +1,50 @@
 ---
 title: Cognitive impairment
-subtitle: ""
+subtitle: "Understanding, measuring, and treating cognitive dysfunction in neurological disease"
 date: 2022-01-01
 summary: >-
-  Quantifying and characterising cognitive impairment in neurological disease
-  [](<>)
+  Quantifying and characterising cognitive impairment in neurological disease.
 tags:
-  - MEG;MS
-external_link: 
+  - MEG
+  - MS
+external_link:
 ---
-Cognitive impairment is an important and integral part of multiple sclerosis. Throughout the past decade, our group has worked on several aspects of CI leading to several key publications :
 
-## Characterizing cognitive impairment and deterioration
+Cognitive impairment is an important and often under-recognised part of multiple sclerosis and related neurological disorders. A major aim of our work is to understand which cognitive domains are affected, how this evolves over time, and how it can be monitored more objectively.
+
+## Why this matters
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-In [Van Schependom et al](../../publication/pmid-24850580/pmid-24850580.pdf), we have shown that the symbol digit modalities test (SDMT) acts as an excellent sentinel test for impairment in different cognitive domains. Furthermore, we demonstrated that patients tend to accrue impairment first on information processing speed and hypothesized that reduced information processing speed may even drive poor performance on other cognitive tests. 
+Cognitive impairment has a substantial impact on quality of life, work participation, and daily functioning. Yet it remains difficult to capture efficiently in routine care and difficult to treat in a targeted way.
 
-## Developing multimodal biomarkers for cognitive impairment
+## Characterising impairment
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-As cognitive impairment is notoriously difficult and costly to assess in MS, we have worked on the development of novel, more objective markers of cognitive impairment by analysing the P300 waveform, [shape analysis of the corpus callosum](../../publication/pmid-28438714),  [fMRI functional connectivity analysis](../../publication/pmid-3795779/), [MEG dynamic networks](../../publication/pmid-31361073/pmid-31361073.pdf) and [serum/CSF biomarkers](../../publication/pmid-36059263). 
+Our work has shown that information-processing speed occupies a central position in the clinical picture of cognitive dysfunction in multiple sclerosis, and that reduced performance in this domain can influence many broader cognitive outcomes.
 
-My pipeline to automatically segment the corpus callosum was validated in both Alzheimer's disease and multiple sclerosis (see [here](../../publication/pmid-27830115)) and enabled used to capture morphological changes of the corpus callosum in the very early stages of the disease (see [here](../../publication/pmid-29984160))
-
-![](../../publication/pmid-29984160/featured.png)
-
-For more information on neurophysiological biomarkers, check [my project page here](../Neurophysiology/)
-
-## Capturing cognitive deterioration in the clinic
+## Developing biomarkers
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-We are working on an app-based cognitive test (coming soon) as well as deep learning on structural brain images. Please check [Stijn Denissens](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=H9KHafoAAAAJ&citation_for_view=H9KHafoAAAAJ:Se3iqnhoufwC)'s work [here](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=H9KHafoAAAAJ&citation_for_view=H9KHafoAAAAJ:Se3iqnhoufwC)
+We develop multimodal biomarkers of cognitive impairment using:
+- neurophysiology, including P300-based markers
+- MRI-derived measures of structural damage
+- shape analysis of the corpus callosum
+- functional connectivity and dynamic-network analysis
+- blood and CSF biomarkers
 
-## New treatment designs for CI in MS
+For neurophysiological work specifically, see the [Neurophysiology](/project/neurophysiology/) project page.
+
+## Clinical monitoring
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-As cognitive impairment is difficult to treat, we are working on novel treatment designs. Delphine Van Laethem is investigating the beneficial effects of combined physical/cognitive training and I am exploring if non-invasive neuromodulation could provide a new way to sustainably enhance cognition in people with MS. 
+A current focus is to make cognitive monitoring more scalable in the clinic, including app-based testing and image-based modelling approaches that can support longitudinal follow-up.
+
+## Treatment development
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+Because cognitive impairment remains difficult to treat, we are exploring new intervention strategies, including combined physical-cognitive training and non-invasive neuromodulation approaches.
+
+## Related outputs
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+See the [Publications](/publication/) page for selected papers on cognitive impairment, cognitive decline, and multimodal biomarkers.

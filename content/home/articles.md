@@ -25,11 +25,11 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: "frontpage"
+    tag: 'frontpage'
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    featured_only: true
 design:
   # Choose a view for the listings:
   #   1 = List

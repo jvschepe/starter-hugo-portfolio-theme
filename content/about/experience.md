@@ -29,16 +29,16 @@ experience:
     location: ''
     date_start: '2022-03-01'
     date_end: ''
-    description: 'The Jonge Academie is a place where young promising researchers meet to discuss and debate burning themes in Academia'
+    description: 'The Jonge Academie brings together early- and mid-career academics to discuss and shape themes relevant to research, higher education, and society.'
     
-  - title: Research professor
+  - title: Associate Research Professor
     company: Vrije Universiteit Brussel
     company_url: 'https://www.vub.be'
     company_logo: 'VUB'
     location: ''
     date_start: '2019-11-01'
     date_end: ''
-    description: 'Research professor possition at VUB in between the Faculties of Medicine and Pharmacy (AIMS), and Engineering (ETRO)'
+    description: 'Academic appointment spanning Engineering and health-related clinical research, with work centred on cognitive impairment, neurophysiology, neuroimaging, and neuromodulation in neurological disease.'
 
   - title: FWO Postdoctoral fellow
     company: FWO

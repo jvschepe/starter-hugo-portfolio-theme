@@ -1,30 +1,40 @@
 ---
 title: Artificial intelligence
-subtitle: "Exploring the potential added benefits artificial intelligence for clinical care "
+subtitle: "Where AI can realistically improve clinical decision support in neurological disease"
 date: 2022-01-01
 summary: >-
-  Exploring the potential added benefits artificial intelligence for clinical care
-
-  [](<>)
+  Exploring how machine learning and federated learning can support clinical care in multiple sclerosis and related disorders.
 tags:
-  - AI; MS
-external_link: 
+  - AI
+  - MS
+external_link:
 ---
-As a group we are looking into ways of how recent advances in artificial intelligence (AI) can be leveraged into clinical healthcare. 
 
-## AI in psychiatry
+We study where artificial intelligence can genuinely add value in clinical neurology, with a focus on cognitive impairment, prognosis, and scalable analysis of multimodal data.
+
+## Why this matters
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-One of my first explorations of the use of AI in clinical care was to assess the usefulness of different machine learners (SVMs) to detect the metabolic syndrome in patients treated with second-generate psychotics. In contrast to the literature by then, I demonstrated that the accuracy of the different machine learning strongly depended on the population at study as a specific subpopulation was easily classified, artificially increasing accuracy. See [my paper](../../publication/pmid-26528652) for more details. 
+AI is often presented as a universal solution in healthcare. Our work instead asks where machine learning is robust, clinically meaningful, and realistic in neurological disease.
 
-## Will AI change MS care in the next ten years?
+## Current directions
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-We have recently contribute to both the [YES](https://journals.sagepub.com/doi/10.1177/13524585221130421) and [NO](https://journals.sagepub.com/doi/10.1177/13524585221125376?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) statement in an MSJ controversy series on whether AI will change MS healthcare within 10 years. 
+- AI for cognitive and clinical stratification
+- Federated learning across distributed clinical datasets
+- Methodological work on generalisability, bias, and clinical utility
 
-## Federated learning
+## Earlier work
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-We strongly believe that the future of AI does not lie within large centralised databases, but rather that we have to leverage clinical datasets through federated learning. A first proof-of-concept paper by Stjn Denissen can be found [here](https://www.medrxiv.org/content/10.1101/2023.04.22.23288741v1). 
+One of my earlier explorations of AI in clinical care evaluated whether machine-learning approaches could detect metabolic syndrome in patients treated with antipsychotic medication. That work highlighted a recurring lesson in medical AI: apparent accuracy can depend strongly on the population under study.
 
-Key-words: AI; federated learning; healthcare in MS
+## On AI in MS care
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+We have contributed to the debate on whether AI will transform multiple-sclerosis care in the coming decade. For me, the important question is not whether AI is fashionable, but whether it improves decisions, scales across centres, and remains interpretable enough for clinical use.
+
+## Related outputs
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+See the [Publications](/publication/) page for selected work on AI, federated learning, and digital biomarkers.

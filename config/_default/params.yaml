@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Welcome to the personal website of Jeroen Van Schependom'
-    twitter: 'Jeroen_VS'
+    org_name: 'Vrije Universiteit Brussel'
+    description: 'Jeroen Van Schependom — research on cognitive impairment, multiple sclerosis, neurophysiology, neuroimaging, neuromodulation, and computational biomarkers at VUB'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 Jeroen Van Schependom. This work is licensed under {license}'
+    notice: '© 2026 Jeroen Van Schependom. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -57,6 +57,8 @@ locale:
 # Site features
 
 features:
+  sharing:
+    enable: false 
   syntax_highlighter:
     enable: true
     extra_languages:
@@ -67,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/jvschepe/starter-hugo-portfolio-theme'
     content_dir: content
     branch: main
   avatar:
